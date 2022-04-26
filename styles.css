@@ -1,0 +1,21 @@
+h2{
+    font-family:helvetica;
+text-align: center;
+}
+.menu-bar {
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    background: url("https://cdn11.bigcommerce.com/s-p64yd5j10d/images/stencil/1280x1280/products/2233/2262/RAL-6019-Pastel-Green__95839.1505828303.jpg?c=2");
+}
+.pink-child {
+    background-color: pink;
+    font-family:siren;
+}
+h3{
+    font-family:siren;
+text-align: center;
+}
+
+
